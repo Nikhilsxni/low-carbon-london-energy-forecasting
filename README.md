@@ -42,7 +42,7 @@ We explore three preprocessing approaches:
 ## Machine Learning Models
 
 Three models are implemented and evaluated:
-1. **Prophet**
+1. **Random forest**
 2. **SARIMA (Seasonal ARIMA)**
 3. **LSTM (Long Short-Term Memory) Networks**
 
